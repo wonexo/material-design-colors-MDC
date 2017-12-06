@@ -1,6 +1,6 @@
 /*Red Section*/
 
-.red {
+.red, .red-5 {
     background-color: #f44336;
 }
 
@@ -22,10 +22,6 @@
 
 .red-4 {
     background-color: #ef5350;
-}
-
-.red-5 {
-    background-color: #f44336;
 }
 
 .red-6 {
@@ -63,7 +59,7 @@
 
 /*Pink section*/
 
-.pink {
+.pink, .pink-5 {
     background-color: #E91E63;
 }
 
@@ -85,10 +81,6 @@
 
 .pink-4 {
     background-color: #EC407A;
-}
-
-.pink-5 {
-    background-color: #E91E63;
 }
 
 .pink-6 {
@@ -126,7 +118,7 @@
 
 /*Purple Section*/
 
-.purple {
+.purple, .purple-5 {
     background-color: #9C27B0;
 }
 
@@ -148,10 +140,6 @@
 
 .purple-4 {
     background-color: #AB47BC;
-}
-
-.purple-5 {
-    background-color: #9C27B0;
 }
 
 .purple-6 {
@@ -189,7 +177,7 @@
 
 /*Deep purple*/
 
-.dp-purple {
+.dp-purple, .dp-purple-5 {
     background-color: #673AB7;
 }
 
@@ -211,10 +199,6 @@
 
 .dp-purple-4 {
     background-color: #7E57C2;
-}
-
-.dp-purple-5 {
-    background-color: #673AB7;
 }
 
 .dp-purple-6 {
@@ -252,7 +236,7 @@
 
 /*Indigo*/
 
-.indigo {
+.indigo, .indigo-5 {
     background-color: #3F51B5;
 }
 
@@ -274,10 +258,6 @@
 
 .indigo-4 {
     background-color: #5C6BC0;
-}
-
-.indigo-5 {
-    background-color: #3F51B5;
 }
 
 .indigo-6 {
@@ -315,7 +295,7 @@
 
 /*Blue*/
 
-.blue {
+.blue, .blue-5 {
     background-color: #2196F3;
 }
 
@@ -337,10 +317,6 @@
 
 .blue-4 {
     background-color: #42A5F5;
-}
-
-.blue-5 {
-    background-color: #2196F3;
 }
 
 .blue-6 {
@@ -378,7 +354,7 @@
 
 /*Light Blue*/
 
-.l-blue {
+.l-blue, .l-blue-5 {
     background-color: #03A9F4;
 }
 
@@ -400,10 +376,6 @@
 
 .l-blue-4 {
     background-color: #29B6F6;
-}
-
-.l-blue-5 {
-    background-color: #03A9F4;
 }
 
 .l-blue-6 {
@@ -441,7 +413,7 @@
 
 /*Cyan*/
 
-.cyan {
+.cyan, .cyan-5 {
     background-color: #00BCD4;
 }
 
@@ -463,10 +435,6 @@
 
 .cyan-4 {
     background-color: #26C6DA;
-}
-
-.cyan-5 {
-    background-color: #00BCD4;
 }
 
 .cyan-6 {
@@ -504,7 +472,7 @@
 
 /*Teal*/
 
-.teal {
+.teal, .teal-5 {
     background-color: #009688;
 }
 
@@ -526,10 +494,6 @@
 
 .teal-4 {
     background-color: #26A69A;
-}
-
-.teal-5 {
-    background-color: #009688;
 }
 
 .teal-6 {
@@ -567,7 +531,7 @@
 
 /*Green*/
 
-.green {
+.green, .green-5 {
     background-color: #4CAF50;
 }
 
@@ -589,10 +553,6 @@
 
 .green-4 {
     background-color: #66BB6A;
-}
-
-.green-5 {
-    background-color: #4CAF50;
 }
 
 .green-6 {
@@ -630,7 +590,7 @@
 
 /*Light green*/
 
-.l-green {
+.l-green, .l-green-5 {
     background-color: #8BC34A;
 }
 
@@ -652,10 +612,6 @@
 
 .l-green-4 {
     background-color: #9CCC65;
-}
-
-.l-green-5 {
-    background-color: #8BC34A;
 }
 
 .l-green-6 {
@@ -693,7 +649,7 @@
 
 /*Lime*/
 
-.lime {
+.lime, .lime-5 {
     background-color: #CDDC39;
 }
 
@@ -715,10 +671,6 @@
 
 .lime-4 {
     background-color: #D4E157;
-}
-
-.lime-5 {
-    background-color: #CDDC39;
 }
 
 .lime-6 {
@@ -756,7 +708,7 @@
 
 /*Yellow*/
 
-.yellow {
+.yellow, .yellow-5 {
     background-color: #FFEB3B;
 }
 
@@ -778,10 +730,6 @@
 
 .yellow-4 {
     background-color: #FFEE58;
-}
-
-.yellow-5 {
-    background-color: #FFEB3B;
 }
 
 .yellow-6 {
@@ -819,7 +767,7 @@
 
 /*Amber*/
 
-.amber {
+.amber, .amber-5 {
     background-color: #FFC107;
 }
 
@@ -841,10 +789,6 @@
 
 .amber-4 {
     background-color: #FFCA28;
-}
-
-.amber-5 {
-    background-color: #FFC107;
 }
 
 .amber-6 {
@@ -882,7 +826,7 @@
 
 /*Orange*/
 
-.orange {
+.orange, .orange-5 {
     background-color: #FF9800;
 }
 
@@ -904,10 +848,6 @@
 
 .orange-4 {
     background-color: #FFA726;
-}
-
-.orange-5 {
-    background-color: #FF9800;
 }
 
 .orange-6 {
@@ -945,7 +885,7 @@
 
 /*Deep Orange*/
 
-.dp-orange {
+.dp-orange, .dp-orange-5 {
     background-color: #FF7043;
 }
 
@@ -966,10 +906,6 @@
 }
 
 .dp-orange-4 {
-    background-color: #FF7043;
-}
-
-.dp-orange-5 {
     background-color: #FF7043;
 }
 
@@ -1008,7 +944,7 @@
 
 /* Brown */
 
-.brown {
+.brown, .brown-5 {
     background-color: #795548;
 }
 
@@ -1032,10 +968,6 @@
     background-color: #8D6E63;
 }
 
-.brown-5 {
-    background-color: #795548;
-}
-
 .brown-6 {
     background-color: #6D4C41;
 }
@@ -1055,7 +987,7 @@
 
 /*Grey*/
 
-.grey {
+.grey, .grey-5 {
     background-color: #9E9E9E;
 }
 
@@ -1079,10 +1011,6 @@
     background-color: #BDBDBD;
 }
 
-.grey-5 {
-    background-color: #9E9E9E;
-}
-
 .grey-6 {
     background-color: #757575;
 }
@@ -1102,7 +1030,7 @@
 
 /*Blue Grey*/
 
-.blue-grey {
+.blue-grey, .blue-grey-5 {
     background-color: #607D8B;
 }
 
@@ -1124,10 +1052,6 @@
 
 .blue-grey-4 {
     background-color: #78909C;
-}
-
-.blue-grey-5 {
-    background-color: #607D8B;
 }
 
 .blue-grey-6 {
